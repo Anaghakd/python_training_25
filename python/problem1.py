@@ -9,7 +9,7 @@ def count_perfect_squares(numbers):
     return perfect_sqaure
 numbers = [1,2,3,4,5,6,7,8,9,10]
 result = count_perfect_squares(numbers)
-print(f'Number of customers eleigible of discount : {result}')
+print(f'Number of customers eligible of discount : {result}')
 
 
     
