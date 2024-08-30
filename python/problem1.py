@@ -7,7 +7,8 @@ def count_perfect_squares(numbers):
         if int(number ** 0.5) ** 2 ==number:
             perfect_sqaure += 1
     return perfect_sqaure
-numbers = [1,2,3,4,5,6,7,8,9,10]
+numbers = []
+numbers= int(input('Enter the number of bills'))
 result = count_perfect_squares(numbers)
 print(f'Number of customers eligible of discount : {result}')
 
