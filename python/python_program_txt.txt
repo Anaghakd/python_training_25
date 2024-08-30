@@ -1,0 +1,10 @@
+Instruction register - (IR)
+Program counter - (PC)
+Stag pointer - (SP) - Points frames of function 
+Frame pointer - (FP) - It holds address of the frame which is curently running.
+-------------------------------------------------------------------------------------------------------------------
+Sys
+OS
+numpy
+pandas
+mysql 
