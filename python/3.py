@@ -9,7 +9,7 @@ def find_sum_of_digits(num):
         sum += remainder
     return sum
 
-input_number = int(input('Enter a number to find sum of itsl digits'))
+input_number = int(input('Enter a number to find sum of its digits'))
 
 sum_of_digits = find_sum_of_digits(input_number)
 
